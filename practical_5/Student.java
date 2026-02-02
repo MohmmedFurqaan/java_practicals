@@ -4,7 +4,7 @@ class StudentDetail{
     long Snumber;
 
 
-    // consstructore
+    // constructore
     StudentDetail(long r, String name, long number){
         this.SName = name;
         this.e_no = r;
